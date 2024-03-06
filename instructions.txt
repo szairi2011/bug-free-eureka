@@ -1,1 +1,2 @@
-Adding some dummy content as instructions on how to deploy the project for example 
+- Add some additional instructions 
+- Adding some dummy content as instructions on how to deploy the project for example 
