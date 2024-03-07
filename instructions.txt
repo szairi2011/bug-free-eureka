@@ -1,2 +1,6 @@
 - Add some additional instructions 
 - Adding some dummy content as instructions on how to deploy the project for example 
+
+## Adding some content to another branch
+
+## Yet another change on a local branch
